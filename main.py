@@ -533,7 +533,7 @@ def main_screen():
     global screen
     screen = Tk()
     screen.geometry("700x550")
-    background_image = PhotoImage(file='~/Desktop/download.png')
+    background_image = PhotoImage(file='use any image of your choice')
     screen.title("TURNER CONSTRUCTION")
     Label(image=background_image).place(x=0, y=-200, relwidth=1, relheight=1)
     Button(text="Login", height="3", width="40", command=login).place(x=150, y=150)
