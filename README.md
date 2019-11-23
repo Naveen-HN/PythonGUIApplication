@@ -1,5 +1,7 @@
 # PythonGUIApplication
 A simple python GUI application using tkinter and MySQL
+
+
 ***************README******************
 
 1. Find the "Turner.sql" along with the files.
